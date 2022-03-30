@@ -36,6 +36,6 @@
 		"mopub_interstitial_ad_unit_id": "24534e1901884e398f1253216226017e",
 		"interstitial_ad_interval": 3,
 		"native_ad_interval": 10,
-		"native_ad_index": 5
+		"native_ad_index": 1000
 	}
 }
