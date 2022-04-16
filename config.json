@@ -35,7 +35,7 @@
 		"mopub_banner_ad_unit_id": "b195f8dd8ded45fe847ad89ed1d016da",
 		"mopub_interstitial_ad_unit_id": "24534e1901884e398f1253216226017e",
 		"interstitial_ad_interval": 2,
-		"native_ad_interval": 5,
-		"native_ad_index": 10
+		"native_ad_interval": 10,
+		"native_ad_index": 5
 	}
 }
