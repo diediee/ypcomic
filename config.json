@@ -1,9 +1,9 @@
 {
 	"blog": {
 		"blogger_id": "8905538624192217288",
-		"api_key": "AIzaSyDKIcmbLpLIa5PoHGFGrKy33LcF0gbY_Xk",
+		"api_key2": "AIzaSyDKIcmbLpLIa5PoHGFGrKy33LcF0gbY_Xk",
 		"api_key1": "AIzaSyCrLMZHJOYDiPhGwepCoBBT6vEqfSM4oCM",
-		"api_key2": "AIzaSyBL2OyZLUmitfIN2_3WSPrDNap9g9u3_P8"
+		"api_key": "AIzaSyBL2OyZLUmitfIN2_3WSPrDNap9g9u3_P8"
 	},
 	"app": {
 		"status": "1",
