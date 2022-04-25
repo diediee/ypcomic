@@ -1,10 +1,10 @@
 {
 	"blog": {
 		"blogger_id": "8905538624192217288",
-		"api_key3": "AIzaSyDKIcmbLpLIa5PoHGFGrKy33LcF0gbY_Xk",
+		"api_key": "AIzaSyDKIcmbLpLIa5PoHGFGrKy33LcF0gbY_Xk",
 		"api_key2": "AIzaSyCrLMZHJOYDiPhGwepCoBBT6vEqfSM4oCM",
 		"api_key1": "AIzaSyBL2OyZLUmitfIN2_3WSPrDNap9g9u3_P8",
-		"api_key": "AIzaSyDGAn4Pj7zo8LYi6HiuUFbhKMY3w0hWYas"
+		"api_key3": "AIzaSyDGAn4Pj7zo8LYi6HiuUFbhKMY3w0hWYas"
 	},
 	"app": {
 		"status": "1",
