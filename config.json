@@ -1,14 +1,11 @@
 {
 	"blog": {
 		"blogger_id": "8905538624192217288",
-		"api_key2": "AIzaSyCxVMBU6C401fEhUJyvEM_ud19b5wMBHvA",
-		"api_key3": "AIzaSyAK6iU0L_z2n-p_i0jAVj8GbB7sXSG9Tgs",
-		"api_key20": "AIzaSyDvt0uNUR_ipATiZCzIPL8ONesd2DQ4cQM",
-		"api_key11": "AIzaSyAmJWgtozLHmfQX00SXcPs4_pLtTGNatG8",
-		"api_key" : "AIzaSyAK6iU0L_z2n-p_i0jAVj8GbB7sXSG9Tgs",
-		"api_key0" : "AIzaSyAK6iU0L_z2n-p_i0jAVj8GbB7sXSG9Tgs",
-		"api_key1" : "AIzaSyDvt0uNUR_ipATiZCzIPL8ONesd2DQ4cQM",
-		"api_key00" : "AIzaSyDGAn4Pj7zo8LYi6HiuUFbhKMY3w0hWYas"
+		"api_key" : "AIzaSyBedrxa1lRrithAyfDkXjJdTHAYdoXTmEs",
+		"api_key0" : "AIzaSyBedrxa1lRrithAyfDkXjJdTHAYdoXTmEs",
+		"api_key1" : "AIzaSyCKDWJX2Jsb-FXvCbkeinwVOxSpbGUhop4",
+		"api_key2": "AIzaSyDp8E_sPtcjoQ5DcGlTjyVZcJ4gXkUs868",
+		"api_key3": "AIzaSyAl7h67xlAPVJpQ61F-Qom1-loJv0ILzi4"
 	},
 	"app": {
 		"status": "1",
