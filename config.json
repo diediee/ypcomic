@@ -1,5 +1,5 @@
 {
-	"blog": {
+	"blog1": {
 		"blogger_id": "8905538624192217288",
 		"api_key" : "AIzaSyCZk1U40Jta5ShKoX3Sp2woNzFqyX4yNeY",
 		"api_key0" : "AIzaSyCZk1U40Jta5ShKoX3Sp2woNzFqyX4yNeY",
@@ -7,13 +7,13 @@
 		"api_key2": "AIzaSyDp8E_sPtcjoQ5DcGlTjyVZcJ4gXkUs868",
 		"api_key3": "AIzaSyAl7h67xlAPVJpQ61F-Qom1-loJv0ILzi4"
 	},
-	"blog1": {
+	"blog": {
 		"blogger_id": "8905538624192217288",
-		"api_key" : "AIzaSyBedrxa1lRrithAyfDkXjJdTHAYdoXTmEs",
+		"api_key3" : "AIzaSyBedrxa1lRrithAyfDkXjJdTHAYdoXTmEs",
 		"api_key0" : "AIzaSyCZk1U40Jta5ShKoX3Sp2woNzFqyX4yNeY",
 		"api_key1" : "AIzaSyBEsZtRsUHuu47AmE-WREmutnkJaWOOE-c",
 		"api_key2": "AIzaSyDp8E_sPtcjoQ5DcGlTjyVZcJ4gXkUs868",
-		"api_key3": "AIzaSyAl7h67xlAPVJpQ61F-Qom1-loJv0ILzi4"
+		"api_key": "AIzaSyAl7h67xlAPVJpQ61F-Qom1-loJv0ILzi4"
 	},
 	"blog11": {
 		"blogger_id": "8905538624192217288",
