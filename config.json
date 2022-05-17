@@ -6,8 +6,32 @@
 		"api_key1" : "AIzaSyBnNZ5iQ8xGsqkhZbG1bQMF8Lr17A9Dgx8",
 		"api_key3": "AIzaSyDUDziSk5i-e9IK5UaVXw7QasJchNskNgk",
 		"api_key2": "AIzaSyBvwwZKi-P3or53WNwb0nZ9-6jm5bRKozE"
+		
+		"blogger_id1": "1470278311640217579",
+		
+		"api_key4": "AIzaSyD8WTi2DtupumYCeWp2ObLdV-dFReOnVDs",
+		"api_key5": "AIzaSyBD2fJ8EXM3rImjr6e06QYuYVcfSs6MZJo",
+		"api_key6": "AIzaSyAFVHA0bxyvW-l2GNw2iLA8afEEP5da2x4",
+		"api_key7": "AIzaSyC3cWxTv7XM62T4U40ymqHa2xuO3S0bs1I",
+		"api_key8": "AIzaSyBuTrztw51hhBTAe37P3XUhocO41S6gdIs",
+		"api_key9": "AIzaSyCJ0jFXgHbPULNY5dA-4yKOkuyy-2SxTFY",
+		"api_key10": "AIzaSyBseX-IbnyR6tWtd-K-KgcLVqwbiZrkRa4",
+		"api_key11": "AIzaSyD_Ec4snppRkI9JTY5D-wfVSdNNj8IZ76M",
+		"api_key12": "AIzaSyBk_4m-AhcRxGt_sDwLB8F6YJBYn-mXUKQ",
+		"api_key13": "AIzaSyBMLTd19G4r3Zhh4gMzCKXsbBNhPvkHuUw",
+		"api_key14": "AIzaSyCevOp7zkpVScjqeKLIFydIaJYWNdfWsa4",
+		"api_key15": "AIzaSyBlaG11NWmXz6a1g0s4fpScp8mbpFc7LT8",
+		"api_key16": "AIzaSyD8WTi2DtupumYCeWp2ObLdV-dFReOnVDs",
+		"api_key17": "AIzaSyBD2fJ8EXM3rImjr6e06QYuYVcfSs6MZJo",
+		"api_key18": "AIzaSyAFVHA0bxyvW-l2GNw2iLA8afEEP5da2x4",
+		"api_key19": "AIzaSyC3cWxTv7XM62T4U40ymqHa2xuO3S0bs1I",
+		"api_key20": "AIzaSyBuTrztw51hhBTAe37P3XUhocO41S6gdIs",
+		"api_key21": "AIzaSyCJ0jFXgHbPULNY5dA-4yKOkuyy-2SxTFY",
+		"api_key22": "AIzaSyBseX-IbnyR6tWtd-K-KgcLVqwbiZrkRa4",
+		"api_key23": "AIzaSyD_Ec4snppRkI9JTY5D-wfVSdNNj8IZ76M"
 	},
 	"app": {
+		"lock": true,
 		"status": "1",
 		"more_apps_url": "https://play.google.com/store/apps/developer?id=ReGeneration",
 		"redirect_url": "",
