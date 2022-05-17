@@ -30,6 +30,10 @@
 		"api_key22": "AIzaSyBseX-IbnyR6tWtd-K-KgcLVqwbiZrkRa4",
 		"api_key23": "AIzaSyD_Ec4snppRkI9JTY5D-wfVSdNNj8IZ76M"
 	},
+	"custom": {
+		"imagelink": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sicily_banner_landscape.jpg",
+		"click": "https://t.me/shalyotepya11"
+	},
 	"app": {
 		"lock": true,
 		"status": "1",
