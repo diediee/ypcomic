@@ -35,7 +35,7 @@
 		"click": "https://t.me/shalyotepya11"
 	},
 	"app": {
-		"lock": true,
+		"lock": false,
 		"status": "1",
 		"more_apps_url": "https://play.google.com/store/apps/developer?id=ReGeneration",
 		"redirect_url": "",
