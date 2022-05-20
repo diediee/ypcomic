@@ -7,7 +7,7 @@
 		"api_key3": "AIzaSyDUDziSk5i-e9IK5UaVXw7QasJchNskNgk",
 		"api_key2": "AIzaSyBvwwZKi-P3or53WNwb0nZ9-6jm5bRKozE",
 		
-		"blogger_id1": "1470278311640217579",
+		"blogger_id1": "8905538624192217288",
 		
 		"api_key4": "AIzaSyD8WTi2DtupumYCeWp2ObLdV-dFReOnVDs",
 		"api_key5": "AIzaSyBD2fJ8EXM3rImjr6e06QYuYVcfSs6MZJo",
@@ -35,7 +35,7 @@
 		"click": "https://t.me/shalyotepya11"
 	},
 	"app": {
-		"lock": false,
+		"lock": true,
 		"status": "1",
 		"more_apps_url": "https://play.google.com/store/apps/developer?id=ReGeneration",
 		"redirect_url": "",
